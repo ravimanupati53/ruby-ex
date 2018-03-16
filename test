@@ -1,0 +1,62 @@
+
+
+The things I think we need assistance with
+
+1)       Valid certificates
+for OpenShift – to get WebHooks working
+
+2)       How will we be
+managing certificates for our dynamic environments
+
+3)       Mark is still having
+issues with HTTP/2
+
+4)       Still don’t have
+firewall rules to connect to Apple
+
+5)       How are we going to
+do local development? CDK?
+
+6)       How will we interact
+with MQ?  Will there be a centralized MQ infrastructure, Kafka, some
+combination, something else?
+
+7)       Get a Splunk
+Forwarder template into our catalog
+
+8)       Get the EFK template
+into our catalog (I’ve attached instructions from Arseni on EFK)
+
+9)       Monitoring
+
+ 
+
+ 
+
+The list of things I want to learn how to do in OpenShift
+(not comprehensive)
+
+ 
+
+1)       Get existing ant
+builds working in an ephemeral Jenkins (the retail repository share to be
+available )
+
+2)       Get SSL configured to
+work the “right” way
+
+3)       Get an application
+that uses MQ working
+
+4)       Use the OpenShift EFK
+stack (requires some storage and I think a new template)
+
+5)       Configure
+Jenkins/OpenShift/GitHub web hooks
+
+6)       Get an application
+that uses a database working
+
+7)       Figure out how we
+want to manage our configuration.
+
